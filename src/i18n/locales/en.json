@@ -1,0 +1,97 @@
+{
+  "brand": "HauntWorks Society",
+  "cta_mockup": "Request mockup",
+  "hero": {
+    "eyebrow": "Austere • Accessible • Horror‑native",
+    "title": "A small society of experienced webmakers united by horror.",
+    "lead": "We craft stark, Puritan‑leaning websites (think The Witch) that respect readability and photosensitivity. We are not a crowdfunding platform or sponsors — we build the site that gets you watched, backed, or booked.",
+    "primary": "How we fit your project",
+    "secondary": "Request a mockup"
+  },
+  "testi": {
+    "title": "What creators say",
+    "items": [
+      {
+        "q": "They gave us a press‑ready page in days — programmers had everything.",
+        "n": "Lena K.",
+        "r": "Short film director"
+      },
+      {
+        "q": "Our pre‑launch signups doubled. Clean links, clean numbers.",
+        "n": "Tom R.",
+        "r": "Indie feature producer"
+      },
+      {
+        "q": "Atmosphere ON, but still readable. No strobe nonsense.",
+        "n": "Ash V.",
+        "r": "Analog horror creator"
+      }
+    ]
+  },
+  "qa": {
+    "title": "Q&A — Which fit is right for you?",
+    "note": "Click to expand. We build sites; we do not sponsor or host campaigns.",
+    "items": [
+      {
+        "q": "Short‑film director headed to festivals",
+        "a": "You probably need a one‑page Micro‑EPK: poster hero, logline, stills, laurels/screenings, press kit ZIP, contact. We ship in about a week if assets are ready."
+      },
+      {
+        "q": "Indie feature producer in a crowdfunding round",
+        "a": "Warm traffic + email capture + UTM/pixels. We set up a pre‑launch list, share cards, and track CTR to your Kickstarter/Indiegogo."
+      },
+      {
+        "q": "Analog‑horror / web‑series (ARG tone)",
+        "a": "Subtle atmosphere, high contrast, content warnings. We keep vibe without motion sickness and tune for mobile speed."
+      },
+      {
+        "q": "Solo dev (game / visual novel)",
+        "a": "Landing that pushes Wishlist/Follow + a small press kit for streamers. Updates stay easy."
+      },
+      {
+        "q": "Horror podcast / YouTube",
+        "a": "Episode hub with RSS, sponsor page, and a still‑led hero if assets are scarce."
+      },
+      {
+        "q": "Haunted event / escape room",
+        "a": "Bookings, reviews, local SEO, fast maps/directions. Built mobile‑first."
+      },
+      {
+        "q": "SFX / makeup team",
+        "a": "Before/after gallery + lead form + simple pricing blocks; download kit for producers."
+      },
+      {
+        "q": "Horror comic / zine (Kickstarter Publishing)",
+        "a": "Page previews, reward tiers, clean redirect to the campaign, and email capture."
+      }
+    ]
+  },
+  "charts": {
+    "title": "Research snapshots (placeholders)",
+    "line": "Positive delta — site vs. no site",
+    "bar": "Design patterns — adoption rate",
+    "pie": "Accessibility checks — pass rate"
+  },
+  "contact": {
+    "title": "Request a free hero mockup",
+    "lead": "Send links to your poster/stills and tell us your goal (crowdfund, festival, bookings). We’ll reply with two variants.",
+    "name": "Your name",
+    "email": "Email",
+    "type": "Project type",
+    "msg": "Message (links welcome)",
+    "send": "Send request",
+    "hint": "No jump scares. Photosensitivity‑safe by design."
+  },
+  "blog": {
+    "title": "Blog",
+    "cats": {
+      "articles": "Articles",
+      "cases": "Cases",
+      "personal": "Personal"
+    },
+    "empty": "No posts yet."
+  },
+  "footer": {
+    "tag": "Minimal. Measurable. Horror‑native."
+  }
+}
