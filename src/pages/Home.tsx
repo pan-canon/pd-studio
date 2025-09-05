@@ -61,7 +61,7 @@ export default function Home() {
     </div></section>
     <section id="contact" className="contact"><div className="container"><div className="hero__panel">
       <h2 className="qa__title">{i18n.t('contact.title')}</h2><p className="qa__note">{i18n.t('contact.lead')}</p>
-      <form className="form" onSubmit={(e)=>{e.preventDefault(); alert('Thanks! We\\'ll get back to you shortly.')}}>
+      <form className="form" onSubmit={(e)=>{e.preventDefault(); alert("Thanks! We'll get back to you shortly.")}}>
         <div className="form__row"><div className="form__group"><label htmlFor="name" className="qa__note">{i18n.t('contact.name')}</label><input id="name" name="name" className="input" placeholder="Jane Doe" required/></div><div className="form__group"><label htmlFor="email" className="qa__note">{i18n.t('contact.email')}</label><input id="email" name="email" type="email" className="input" placeholder="jane@example.com" required/></div></div>
         <div className="form__group"><label htmlFor="type" className="qa__note">{i18n.t('contact.type')}</label><select id="type" name="type" className="select"><option>Film (short)</option><option>Film (feature)</option><option>Game / Visual Novel</option><option>Podcast / YouTube</option><option>Haunted event / Escape room</option><option>Other</option></select></div>
         <div className="form__group"><label htmlFor="message" className="qa__note">{i18n.t('contact.msg')}</label><textarea id="message" name="message" className="textarea" placeholder="Goal, deadline, assets (poster/stills), Kickstarter/Indiegogo link if any."></textarea></div>
