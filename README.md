@@ -39,3 +39,5 @@ Markdown body here...
 - Enable Pages: Settings → Pages → Source: GitHub Actions.
 - Push to `main` → workflow builds and publishes.
 - `public/CNAME` is set to `studio.phantom-draft.com`.
+- The build uses relative asset paths so it also works when hosted under
+  `https://<user>.github.io/pd-studio/`.
