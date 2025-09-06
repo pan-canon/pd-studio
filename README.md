@@ -11,7 +11,7 @@
 ## Dev
 ```bash
 npm i
-npm run dev
+npm run dev # Vite dev server on http://localhost:3000
 ```
 
 ## Markdown posts
