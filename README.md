@@ -8,10 +8,25 @@
 - GH Pages via Actions
 - Custom domain: studio.phantom-draft.com (CNAME included)
 
-## Dev
+## Getting Started
+
+Localization dictionaries live in `src/i18n/locales/*` and are loaded through the `I18nService`. Styling follows the BEM methodology. Where it adds value, repositories and services use OOP patterns (e.g., `I18nService`, `PostRepository`); otherwise, the codebase remains mostly functional but welcomes additional OOP contributions.
+
+### Clone and Install
 ```bash
-npm i
+git clone https://github.com/pan-canon/pd-studio.git
+cd pd-studio
+npm install
+```
+
+### Development
+```bash
 npm run dev # Vite dev server on http://localhost:3000
+```
+
+### Build
+```bash
+npm run build
 ```
 
 ## Markdown posts
