@@ -20,5 +20,18 @@
     "typescript": "^5.5.4",
     "vite": "^5.4.0",
     "@vitejs/plugin-react": "^4.3.1"
-  }
+  },
+  "description": "- React + Vite + TypeScript - OOP: I18nService, PostRepository - BEM CSS - i18n (EN/RU/UK) - **Blog (Markdown‑only)** with categories (Articles, Cases, Personal) - GH Pages via Actions - Custom domain: studio.phantom-draft.com (CNAME included)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pan-canon/pd-studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pan-canon/pd-studio/issues"
+  },
+  "homepage": "https://github.com/pan-canon/pd-studio#readme"
 }
